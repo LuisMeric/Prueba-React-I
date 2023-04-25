@@ -1,0 +1,65 @@
+.container {
+
+    background-color: rgb(202, 201, 201);
+}
+
+.contFilter {
+
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+
+
+}
+
+h3 {
+
+    padding-right: 10px;
+}
+
+
+input {
+
+    width: 150px;
+    border-radius: 10px;
+}
+
+li {
+
+    padding: 10px;
+    padding-left: 20px;
+    font-size: 1rem;
+    padding-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+ul {
+
+    padding-left: 15%;
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+
+.buttonContainer {
+
+    padding-left: 15%;
+
+
+}
+
+button {
+
+    background-color: rgb(7, 99, 19);
+    color: white;
+    border-radius: 30px;
+
+}
+
+.tituloBoton {
+
+    padding-top: 15px;
+    padding-bottom: 10px;
+}

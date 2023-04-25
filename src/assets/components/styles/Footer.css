@@ -1,0 +1,15 @@
+.FooterContainer {
+
+
+    background-color: black;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: white;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-size: 1.5rem;
+}

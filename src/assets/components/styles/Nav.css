@@ -1,0 +1,13 @@
+.flex-container {
+
+    background-color: rgb(70, 4, 4);
+    height: 100px;
+    color: white;
+
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
